@@ -53,5 +53,5 @@ body {
 .menu a:hover{
     background-color: aqua;
     color: #191c32;
-    transition: ease-in 0.5s;
+    transition: ease-in 0.4s;
 }
