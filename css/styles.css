@@ -55,3 +55,21 @@ body {
     color: #191c32;
     transition: ease-in 0.4s;
 }
+
+.main {
+    margin: 0 auto;
+    width: 80vw;
+    height: 90vh;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+
+}
+h1{
+    font-size: 3em;
+}
+span{
+    color: aqua;
+}
+
+.button
